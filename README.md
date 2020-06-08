@@ -6,3 +6,9 @@ Otomasyona ait video linki : https://youtu.be/OQdM32ycl4c
 ## Kullanılan Teknolojiler :
 Java SE ile geliştirilmiş. Arayüzüü JavaSwing ile geliştirilmiş . MVC mimari deseni kullanılmıştır. Veritabanı olarak Mysql kullanılmıştır. 
 
+## Use-Case :
+![UseCase](https://user-images.githubusercontent.com/50847253/83983491-9701e280-a937-11ea-9f6b-2e65f523f491.png)
+
+## Stok Ekle Sequance :
+
+
