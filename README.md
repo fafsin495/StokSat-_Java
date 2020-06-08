@@ -1,5 +1,5 @@
 # Stok-Satış-Otamasyonu V01
-Java ile gerçekleştirilen Stok Satış takip otomasyonudur. Başlangıç seviyesi bir otomasyon olup . Projem için hazırlamış olduğum diyagramlarda eksiklik veya hata olabilir . Bu durumda eksiklerimi ve hatalarımı benimle paylaşmanızı umud ediyorum  **bilgi paylaştıkça çoğalır ..
+Java ile gerçekleştirilen Stok Satış takip otomasyonudur. Başlangıç seviyesi bir otomasyon olup . Projem için hazırlamış olduğum diyagramlarda eksiklik veya hata olabilir . Bu durumda eksiklerimi ve hatalarımı benimle paylaşmanızı umud ediyorum  **bilgi paylaştıkça çoğalır..**
 
 Görüş ve Öneriler: afsinfatih21@gmail.com
 Otomasyona ait video linki : https://youtu.be/OQdM32ycl4c
